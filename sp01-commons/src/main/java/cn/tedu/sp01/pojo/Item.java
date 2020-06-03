@@ -12,6 +12,6 @@ public class Item {
     private Integer id;
     // 名称
     private String name;
-    // 数量
+
     private Integer number;
 }
